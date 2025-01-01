@@ -1,0 +1,19 @@
+
+.text, ol{
+    text-align: center;
+    background-color: yellow;
+    list-style-position: inside;
+    color: purple;
+    border: 5px solid purple;
+}
+.title{
+    width: 80%;
+    color: purple;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid purple;
+    border-right: 5px solid purple;
+    border-left: 5px solid purple;
+
+    background-image:  url("https://imgs.search.brave.com/bxNA7CMfoh39wU93jDynGVklXKmhHwL0aJt5rE4CV_s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvbGFrZXJzLWNv/MzZkcnk3YWJqaGo2/MTEuanBn");
+  } 
